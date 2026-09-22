@@ -1,5 +1,7 @@
 # Portfolio Stats API
 
+![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Tests](https://github.com/Ayushx975/portfolio-stats-api/actions/workflows/ci.yml/badge.svg) ![License MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 Investment portfolio analytics REST API — returns, risk metrics, and diversification analysis. FastAPI + Pydantic, with clean architecture (routers / services / schemas).
 
 Computes the metrics that actually matter when judging a portfolio:
